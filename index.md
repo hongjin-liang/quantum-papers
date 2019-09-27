@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# A paper list on quantum program verification
 
-You can use the [editor on GitHub](https://github.com/hongjin-liang/quantum-papers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Language and semantics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Peter Selinger. 2004. [Towards a Quantum Programming Language](https://www.mathstat.dal.ca/~selinger/papers/papers/qpl.pdf). Mathematical. Structures in Comp. Sci. 14(4):527-586.
 
-### Markdown
+## Quantum Hoare Logics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Mingsheng Ying. 2016. Foundations of Quantum Programming. Morgan Kaufmann.
 
-```markdown
-Syntax highlighted code block
+2. Li Zhou, Nengkun Yu, and Mingsheng Ying. 2019. [An applied quantum Hoare logic](https://dl.acm.org/citation.cfm?id=3314584). In PLDI 2019. 
 
-# Header 1
-## Header 2
-### Header 3
+3. Dominique Unruh. 2019. [Quantum Hoare Logic with Ghost Variables](http://kodu.ut.ee/~unruh/publications/ghosts.html). In LICS 2019.
 
-- Bulleted
-- List
+4. Dominique Unruh. 2019. [Quantum Relational Hoare Logic](http://kodu.ut.ee/~unruh/publications/qrhl.html). In POPL 2019.
 
-1. Numbered
-2. List
+5. Ellie D’Hondt and Prakash Panangaden. 2006. [Quantum Weakest Preconditions](https://www.cs.mcgill.ca/~prakash/Pubs/weakest_mscs.pdf). Mathematical. Structures in Comp. Sci. 16(3):429-451.
 
-**Bold** and _Italic_ and `Code` text
+6. Rohit Chadha, Paulo Mateus, and Amílcar Sernadas. 2006. [Reasoning About Imperative Quantum Programs](https://www.math.tecnico.ulisboa.pt/~rchadha/publications/06-CMS-quantlog10s.pdf). ENTCS 158 (May 2006), 19-39.
 
-[Link](url) and ![Image](src)
-```
+7. Yoshihiko Kakutani. 2009. [A Logic for Formal Verification of Quantum Programs](http://hagi.is.s.u-tokyo.ac.jp/~kakutani/files/asian09.pdf). In ASIAN 2009, Springer, Berlin, Heidelberg, 79-93.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Verification of Algorithms
 
-### Jekyll Themes
+1. Yuan Feng and Mingsheng Ying. 2015. [Toward Automatic Verification of Quantum Cryptographic Protocols](https://core.ac.uk/download/pdf/62920378.pdf). In CONCUR 2015, 441-455.  **(BB84)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hongjin-liang/quantum-papers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, and Naijun Zhan. 2019. [Formal verification of quantum algorithms using quantum Hoare logic](http://lcs.ios.ac.cn/~znj/papers/CAV2019b.pdf). In CAV 2019. **(Isabelle)**
