@@ -32,5 +32,5 @@
 
 2. Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, and Naijun Zhan. 2019. [Formal verification of quantum algorithms using quantum Hoare logic](http://lcs.ios.ac.cn/~znj/papers/CAV2019b.pdf). In CAV 2019. **(Isabelle)**
 
-3. Tao Liu, Yangjia Li, Shuling Wang, Mingsheng Ying, and Naijun Zhan. 2019. [A Theorem Prover for Quantum Hoare Logic and Its Applications](https://arxiv.org/pdf/1601.03835). Draft.  **(Isabelle)**  **(Grover Quantum Search and Quantum Phase Estimation)**
+3. Tao Liu, Yangjia Li, Shuling Wang, Mingsheng Ying, and Naijun Zhan. 2016. [A Theorem Prover for Quantum Hoare Logic and Its Applications](https://arxiv.org/pdf/1601.03835). Draft.  **(Isabelle)**  **(Grover Quantum Search and Quantum Phase Estimation)**
 
