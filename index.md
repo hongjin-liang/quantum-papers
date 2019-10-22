@@ -6,6 +6,16 @@
 
 2. Jennifer Paykin, Robert Rand, and Steve Zdancewic. 2017. [QWIRE: a core language for quantum circuits](https://dl.acm.org/citation.cfm?id=3009894). In POPL 2017.
 
+3. Svore et al. 2018 [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/citation.cfm?id=3183901). In RWDSL 2018. 
+
+4. Amr Sabry, Benoît Valiron, and Juliana Kaizer Vizzotto. 2018. [From Symmetric Pattern-Matching to Quantum Control](https://link.springer.com/chapter/10.1007/978-3-319-89366-2_19). In FoSSaCS 2018. 
+
+5. Alexander S. Green, Peter LeFanu Lumsdaine, Neil J. Ross, Peter Selinger, and Benoit Valiron. 2013. [Quipper: a scalable quantum programming language](https://dl.acm.org/citation.cfm?id=2462177). In PLDI 2013. 
+
+6. Abhari et al. 2012. [Scaffold: Quantum Programming Language](https://www.cs.princeton.edu/research/techreps/TR-934-12). Technical Report. 
+
+7. Peter Selinger and Benoit Valiron. 2009. [Quantum Lambda Calculus](https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf). Book chapter. In Simon Gay and Ian Mackie, editors, Semantic Techniques in Quantum Computation, Cambridge University Press, pp. 135–172, 2009.
+
 ## Quantum Hoare Logics
 
 1. Robert Rand. 2019. [Verification Logics for Quantum Programs](https://arxiv.org/pdf/1904.04304). Draft Survey. 
@@ -34,3 +44,6 @@
 
 3. Tao Liu, Yangjia Li, Shuling Wang, Mingsheng Ying, and Naijun Zhan. 2016. [A Theorem Prover for Quantum Hoare Logic and Its Applications](https://arxiv.org/pdf/1601.03835). Draft.  **(Isabelle)**  **(Grover Quantum Search and Quantum Phase Estimation)**
 
+## Others
+
+1. Yipeng Huang and Margaret Martonosi. 2018. [QDB: From Quantum Algorithms Towards Correct Quantum Programs](https://arxiv.org/pdf/1811.05447.pdf). Draft. **(Bug Report)**
