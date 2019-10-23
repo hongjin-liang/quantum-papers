@@ -4,17 +4,23 @@
 
 1. Peter Selinger. 2004. [Towards a Quantum Programming Language](https://www.mathstat.dal.ca/~selinger/papers/papers/qpl.pdf). Mathematical. Structures in Comp. Sci. 14(4):527-586.
 
-2. Jennifer Paykin, Robert Rand, and Steve Zdancewic. 2017. [QWIRE: a core language for quantum circuits](https://dl.acm.org/citation.cfm?id=3009894). In POPL 2017.
+2. Ryan LaRose. 2019. [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf). 	Quantum 3, 130 (2019). 
 
-3. Svore et al. 2018 [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/citation.cfm?id=3183901). In RWDSL 2018. 
+3. Jennifer Paykin, Robert Rand, and Steve Zdancewic. 2017. [QWIRE: a core language for quantum circuits](https://dl.acm.org/citation.cfm?id=3009894). In POPL 2017.
 
-4. Amr Sabry, Benoît Valiron, and Juliana Kaizer Vizzotto. 2018. [From Symmetric Pattern-Matching to Quantum Control](https://link.springer.com/chapter/10.1007/978-3-319-89366-2_19). In FoSSaCS 2018. 
+4. Svore et al. 2018 [Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL](https://dl.acm.org/citation.cfm?id=3183901). In RWDSL 2018. 
 
-5. Alexander S. Green, Peter LeFanu Lumsdaine, Neil J. Ross, Peter Selinger, and Benoit Valiron. 2013. [Quipper: a scalable quantum programming language](https://dl.acm.org/citation.cfm?id=2462177). In PLDI 2013. 
+5. Amr Sabry, Benoît Valiron, and Juliana Kaizer Vizzotto. 2018. [From Symmetric Pattern-Matching to Quantum Control](https://link.springer.com/chapter/10.1007/978-3-319-89366-2_19). In FoSSaCS 2018. 
 
-6. Abhari et al. 2012. [Scaffold: Quantum Programming Language](https://www.cs.princeton.edu/research/techreps/TR-934-12). Technical Report. 
+6. Damian S. Steiger, Thomas Häner, and Matthias Troyer. 2018. [ProjectQ: an open source software framework for quantum computing](https://arxiv.org/pdf/1612.08091.pdf). Quantum 2, 49 (2018).
 
-7. Peter Selinger and Benoit Valiron. 2009. [Quantum Lambda Calculus](https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf). Book chapter. In Simon Gay and Ian Mackie, editors, Semantic Techniques in Quantum Computation, Cambridge University Press, pp. 135–172, 2009.
+7. Andrew W. Cross, Lev S. Bishop, John A. Smolin, and Jay M. Gambetta. 2017. [Open Quantum Assembly Language](https://arxiv.org/pdf/1707.03429.pdf). Draft. 
+
+8. Alexander S. Green, Peter LeFanu Lumsdaine, Neil J. Ross, Peter Selinger, and Benoit Valiron. 2013. [Quipper: a scalable quantum programming language](https://dl.acm.org/citation.cfm?id=2462177). In PLDI 2013. 
+
+9. Abhari et al. 2012. [Scaffold: Quantum Programming Language](https://www.cs.princeton.edu/research/techreps/TR-934-12). Technical Report. 
+
+10. Peter Selinger and Benoit Valiron. 2009. [Quantum Lambda Calculus](https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf). Book chapter. In Simon Gay and Ian Mackie, editors, Semantic Techniques in Quantum Computation, Cambridge University Press, pp. 135–172, 2009.
 
 ## Quantum Hoare Logics
 
